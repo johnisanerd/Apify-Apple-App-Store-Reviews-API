@@ -269,4 +269,4 @@ New to Cursor? Get it here: https://cursor.com/referral?code=XQP4VBLI3NNX
 
 *Use the Apple App Store Reviews API to power your data workflows with reliable, structured results.*
 
-Last Updated: 2026.05.26
+Last Updated: 2026.05.29

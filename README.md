@@ -289,4 +289,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Apple App Store Reviews API to power ASO, sentiment analysis, and competitor monitoring with reliable, structured results.*
 
-Last Updated: 2026.05.30
+Last Updated: 2026.05.31

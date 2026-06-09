@@ -293,4 +293,4 @@ Last Updated: 2026.06.02
 ## n8n integration
 
 Available as an n8n community node, **[n8n-nodes-apple-app-store-api](https://www.npmjs.com/package/n8n-nodes-apple-app-store-api)**. In n8n: Settings, Community Nodes, install `n8n-nodes-apple-app-store-api`, then use it in any workflow (it also works as an AI Agent tool). The node bundles this Actor with the Apple App Store Search and Product APIs as three operations behind one Apify credential.
-Last Updated: 2026.06.09
+Last Updated: 2026.06.10

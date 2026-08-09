@@ -299,4 +299,4 @@ Ready-to-run examples on the Apify Store.
 
 - [Export App Store Reviews to CSV](https://apify.com/johnvc/apple-app-store-reviews-api/examples/export-app-store-reviews-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.08.08
+Last Updated: 2026.08.09
